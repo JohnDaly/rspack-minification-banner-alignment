@@ -18,6 +18,7 @@
     "@rspack/cli": "latest",
     "@rspack/core": "latest",
     "html-webpack-plugin": "^5.5.3",
+    "terser-webpack-plugin": "^5.3.9",
     "webpack": "^5.79.0",
     "webpack-cli": "^5.0.1"
   },
